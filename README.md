@@ -1,8 +1,8 @@
 <!-- unlv-museum-banner-start -->
 <a href="https://unlv-museum.infinite-syndicate.com/js-exercises/js-dom-events" target="_blank" rel="noopener">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/js-dom-events?theme=dark&v=457fde39c5">
-    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/js-dom-events?theme=light&v=457fde39c5" alt="This project demonstrates JavaScript event handling, DOM manipulation, and OOP fundamentals through interactive web page demos." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/js-dom-events?theme=dark&v=8495c889e5">
+    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/js-dom-events?theme=light&v=8495c889e5" alt="This project demonstrates JavaScript event handling, DOM manipulation, and OOP fundamentals through interactive web page demos." width="100%">
   </picture>
 </a>
 
